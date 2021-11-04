@@ -1,0 +1,10 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+}
+.Header p {
+  font-weight: bold;
+}
+.giphy {
+  color: #145a4f;
+}

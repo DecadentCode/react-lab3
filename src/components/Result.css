@@ -1,0 +1,16 @@
+.Result {
+  display: flex;
+  flex-direction: column;
+  background-color: #16191d;
+  padding: 12px;
+  margin: 8px;
+  border: 2px solid #2f3336;
+  font-size: 20px;
+  max-width: 800px;
+}
+
+.Result a {
+  text-decoration: none;
+  color: #28b39d;
+  font-weight: bold;
+}

@@ -1,0 +1,10 @@
+.ResultList h2 {
+  font-size: 36px;
+  text-align: center;
+}
+.ResultArray {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0px;
+  flex-wrap: wrap;
+}
